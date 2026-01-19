@@ -1,0 +1,408 @@
+[
+  {
+    "name": "php",
+    "version": "8.1",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "ext-ctype",
+    "version": "*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "ext-iconv",
+    "version": "*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "ext-json",
+    "version": "*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "composer/package-versions-deprecated",
+    "version": "1.10",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "doctrine/annotations",
+    "version": "1.13",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "doctrine/doctrine-bundle",
+    "version": "2.7",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "doctrine/doctrine-migrations-bundle",
+    "version": "3.2",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "doctrine/orm",
+    "version": "2.7",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "firebase/php-jwt",
+    "version": "6.8",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "guzzlehttp/guzzle",
+    "version": "7.8",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "knplabs/knp-snappy-bundle",
+    "version": "1.8",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "lexik/jwt-authentication-bundle",
+    "version": "2.16",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "miladrahimi/php-jwt",
+    "version": "2.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "ninsuo/symfony-collection",
+    "version": "2.1",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "paragonie/sodium_compat",
+    "version": "1.14",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "phpdocumentor/reflection-docblock",
+    "version": "5.3",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "phpstan/phpdoc-parser",
+    "version": "1.12",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "ramsey/uuid",
+    "version": "4.7",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "sensio/framework-extra-bundle",
+    "version": "6.2",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/apache-pack",
+    "version": "1.0",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/asset",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/console",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/dom-crawler",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/dotenv",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/expression-language",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/filesystem",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/flex",
+    "version": "1.17|^2",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/form",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/framework-bundle",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/http-client",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/intl",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/mailer",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/mime",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/monolog-bundle",
+    "version": "3.8",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/notifier",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/polyfill-intl-messageformatter",
+    "version": "1.23",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/process",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/property-access",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/property-info",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/proxy-manager-bridge",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/runtime",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/security-bundle",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/serializer",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/string",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/translation",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/twig-bundle",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/validator",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/web-link",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "symfony/yaml",
+    "version": "5.4.*",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "twig/extra-bundle",
+    "version": "2.12|^3.0",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "twig/twig",
+    "version": "2.12|^3.0",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "web-token/jwt-bundle",
+    "version": "3.2",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "wemersonjanuario/wkhtmltopdf-windows",
+    "version": "0.12.2.3",
+    "ecosystem": "composer",
+    "source_file": "composer.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\composer.json"
+  },
+  {
+    "name": "jquery",
+    "version": "=1.7",
+    "ecosystem": "npm",
+    "source_file": "package.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\public\\extra-libs\\datatables.net\\package.json"
+  },
+  {
+    "name": "datatables.net",
+    "version": "1.10.19",
+    "ecosystem": "npm",
+    "source_file": "package.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\public\\extra-libs\\datatables.net-bs4\\package.json"
+  },
+  {
+    "name": "jquery",
+    "version": "=1.7",
+    "ecosystem": "npm",
+    "source_file": "package.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\public\\extra-libs\\datatables.net-bs4\\package.json"
+  },
+  {
+    "name": "libs",
+    "version": "0.1.2",
+    "ecosystem": "npm",
+    "source_file": "package.json",
+    "path": "C:\\Users\\tdebruyne\\Documents\\Test Local\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\aniteam-mc-paas-frontend-symfony-c81ec907a501\\public\\extra-libs\\datatables.net-bs4\\package.json"
+  }
+]

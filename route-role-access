@@ -1,0 +1,67 @@
+
+
+https://www.main-chain.org/
+    -> login 
+    -> allow to not connected user
+    -> need : /
+    -> u_email - u_pwd
+
+https://www.main-chain.org/register
+    -> register 
+    -> allow to not connected user
+    -> need : /
+    -> u_lname - u_fname - u_email - u_pwd - ?
+
+https://www.main-chain.org/register/confirm 
+    -> confirmation of invitation 
+    -> allow to not connected User thanks to an email link
+    -> need : Token ? 
+    -> u_lname - u_fname - u_email - u_pwd - ?
+
+https://www.main-chain.org/dashboard
+    -> home of the MC services 
+    -> allow to is_granted ROLE_USER 
+
+https://www.main-chain.org/bubble
+    -> list of bubble with basic information
+    -> allow to is_granted ROLE_USER
+
+https://www.main-chain.org/bubble/create
+    -> create of bubble & invitation of BA (as a SA)
+    -> allow to is_granted ROLE_SUPER_ADMIN
+
+https://www.main-chain.org/bubble/update
+    -> update a bubble as a SA
+    -> allow to is_granted ROLE_SUPER_ADMIN
+
+https://www.main-chain.org/bubble/delete
+    -> delete a bubble as SA
+    -> allow to is_granted ROLE_SUPER_ADMIN
+
+https://www.main-chain.org/bubble/settings/id
+    -> update a bubble as a BA
+    -> allow to is_granted ROLE_BUBBLE_ADMIN
+
+https://www.main-chain.org/bubble/settings/delete/id/
+    -> delete a bubble as a BA
+    -> allow to is_granted ROLE_BUBBLE_ADMIN
+
+https://www.main-chain.org/bubble_label_slug/print/   
+    -> see the list of prints (In a bubble)
+    -> allow to is_granted ROLE_USER
+
+
+roles_hierarchy: 
+    - ROLE_SUPER_ADMIN : ROLE_BUBBLE_ADMIN
+    - ROLE_BUBBLE_ADMIN : {ROLE_OP, ROLE_INDUS, ROLE_MAN, ROLE_VA}
+
+access_control: 
+    - { path: ^/login, allow if : not is_granted('IS_AUTHENTICATED_FULLY')}
+    - { path: ^/register, allow if : not is_granted('IS_AUTHENTICATED_FULLY')}
+    - { path: ^/dashboard, roles: ROLE_ADMIN }
+    - { path: ^/bubble, roles: ROLE_ADMIN }
+    - { path: ^/invoice, roles: ROLE_ADMIN }
+    - { path: ^/bubble/settings, roles: ROLE_BUBBLE_ADMIN }
+    - { path: ^/bubble/create: ROLE_SUPER_ADMIN }
+    - { path: ^/bubble/delete: ROLE_SUPER_ADMIN }
+    - { path: ^/bubble/update: ROLE_SUPER_ADMIN }

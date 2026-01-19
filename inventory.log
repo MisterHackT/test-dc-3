@@ -1,0 +1,5 @@
+[INFO] Scan: C:\Users\tdebruyne\Documents\Test Local\aniteam-mc-paas-frontend-symfony-c81ec907a501\aniteam-mc-paas-frontend-symfony-c81ec907a501
+C:\Users\tdebruyne\Documents\Test Local\aniteam-mc-paas-frontend-symfony-c81ec907a501\aniteam-mc-paas-frontend-symfony-c81ec907a501\composer.json -> 54 dépendances composer
+ C:\Users\tdebruyne\Documents\Test Local\aniteam-mc-paas-frontend-symfony-c81ec907a501\aniteam-mc-paas-frontend-symfony-c81ec907a501\public\extra-libs\datatables.net\package.json -> 1 dépendances npm
+ C:\Users\tdebruyne\Documents\Test Local\aniteam-mc-paas-frontend-symfony-c81ec907a501\aniteam-mc-paas-frontend-symfony-c81ec907a501\public\extra-libs\datatables.net-bs4\package.json -> 3 dépendances npm
+Composants : 58

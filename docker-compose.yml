@@ -1,0 +1,20 @@
+
+version: "3.3"
+
+services:
+  mc-frontend:
+    build: .
+    image: ${IMAGE_NAME}
+    container_name: ${CONTAINER_NAME}
+    ports:
+      - 8000:8000
+    volumes:
+      - ${PWD}/.frontenv:/app/.env
+      - ${PWD}/jwt:/app/config/jwt
+    networks:
+      mainchain:
+        ipv4_address: ${CONTAINER_IP_ADDRESS}
+
+networks:
+  mainchain:
+    external: true
